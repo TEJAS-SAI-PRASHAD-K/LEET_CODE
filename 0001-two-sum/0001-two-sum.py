@@ -1,8 +1,14 @@
-class Solution(object):
-  def twoSum(self, nums, target):
-    for i in range(len(nums)):
-        for j in range(i+1, len(nums)):
-            if nums[i] + nums[j] == target:
-                return [i, j]
-    return []
-
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        start = 0
+        nxt = start + 1
+        while(start < len(nums)-1):
+            if nxt == len(nums):
+                start += 1
+                nxt = start + 1
+                continue
+            if nums[start]+nums[nxt] == target:
+                return [start,nxt]
+            else:
+                nxt += 1
+        
