@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,8 +89,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
