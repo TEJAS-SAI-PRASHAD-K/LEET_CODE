@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0011-container-with-most-water) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0217-contains-duplicate) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
