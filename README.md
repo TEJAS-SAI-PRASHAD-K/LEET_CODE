@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
