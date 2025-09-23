@@ -12,9 +12,7 @@ class Solution:
         else:
             for i in range(n-1,ind,-1):
                 if(nums[i] > nums[ind]):
-                    temp = nums[i]
-                    nums[i] = nums[ind]
-                    nums[ind] = temp
+                    nums[i], nums[ind] = nums[ind], nums[i]
                     break
         
             nums[ind+1:] = list(reversed(nums[ind+1:]))
