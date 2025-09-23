@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0075-sort-colors) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0189-rotate-array) |
