@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0118-pascals-triangle) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0242-valid-anagram) |
 ## Stack
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0242-valid-anagram) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0217-contains-duplicate) |
