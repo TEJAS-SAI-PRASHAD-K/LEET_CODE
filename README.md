@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
