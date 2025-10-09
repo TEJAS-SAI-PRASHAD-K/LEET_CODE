@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
