@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0347-top-k-frequent-elements) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
