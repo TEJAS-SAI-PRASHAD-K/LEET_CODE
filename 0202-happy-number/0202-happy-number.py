@@ -1,7 +1,7 @@
 import math
 class Solution:
     def isHappy(self, n: int) -> bool:
-        def get_next(x):
+        def sum_of_squares(x):
             total = 0
             while x > 0:
                 total += (x % 10) ** 2
@@ -9,10 +9,13 @@ class Solution:
             return total
 
         slow = n
-        fast = get_next(n)
+        fast = n
 
-        while fast != 1 and slow != fast:
-            slow = get_next(slow)
-            fast = get_next(get_next(fast))
+        while True:
+            slow = sum_of_squares(slow)
+            fast = sum_of_squares(sum_of_squares(fast))
 
-        return fast == 1
+            if fast == 1:
+                return True
+            if slow == fast:
+                return False
