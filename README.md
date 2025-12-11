@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
