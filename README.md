@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0217-contains-duplicate) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0036-valid-sudoku) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
