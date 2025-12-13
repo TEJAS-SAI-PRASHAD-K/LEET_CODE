@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0128-longest-consecutive-sequence) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
