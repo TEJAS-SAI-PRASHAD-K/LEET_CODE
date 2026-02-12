@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
