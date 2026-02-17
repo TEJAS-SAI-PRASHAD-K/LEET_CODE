@@ -3,21 +3,14 @@ class Solution:
         if not nums:
             return []
 
-        num_start = nums[0]
-        num_end = num_start
         res = []
-        for i in range(1,len(nums)):
-            if nums[i] == num_end+1:
-                num_end = nums[i]
-            else:
-                if num_end == num_start:
-                    res.append(f"{num_start}")
-                else:
-                    res.append(f"{num_start}->{num_end}")
-                num_start = nums[i]
-                num_end = nums[i] 
-        if num_end == num_start:
-            res.append(f"{num_start}")
-        else:
-            res.append(f"{num_start}->{num_end}")
+        start = nums[0]
+
+        for i in range(1, len(nums)):
+            if nums[i] != nums[i-1] + 1:
+                end = nums[i-1]
+                res.append(str(start) if start == end else f"{start}->{end}")
+                start = nums[i]
+
+        res.append(str(start) if start == nums[-1] else f"{start}->{nums[-1]}")
         return res
