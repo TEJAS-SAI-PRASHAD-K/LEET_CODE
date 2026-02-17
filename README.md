@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1768-merge-strings-alternately) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
