@@ -4,7 +4,7 @@ class Solution:
         diff = 0
 
         for price in prices:
-            buy = min(buy, price)          # track minimum
-            diff = max(diff, price - buy)  # track best profit
+            buy = min(buy, price)
+            diff = max(diff, price - buy)
 
         return diff
