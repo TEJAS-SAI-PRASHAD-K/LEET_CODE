@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0075-sort-colors) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0054-spiral-matrix) |
 ## Union Find
 |  |
 | ------- |
