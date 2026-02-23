@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1768-merge-strings-alternately) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0771-jewels-and-stones) |
 ## Sorting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
