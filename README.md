@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0392-is-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -294,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0274-h-index) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
