@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1095-find-in-mountain-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1095-find-in-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2239-find-closest-number-to-zero](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2239-find-closest-number-to-zero) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
+| [1095-find-in-mountain-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1095-find-in-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
