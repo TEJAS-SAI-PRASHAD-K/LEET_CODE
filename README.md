@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0053-maximum-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0119-pascals-triangle-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0094-binary-tree-inorder-traversal) |
 ## Hash Table
 |  |
@@ -306,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
