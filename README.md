@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0046-permutations) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
