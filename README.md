@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
