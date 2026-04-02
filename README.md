@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
