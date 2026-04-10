@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -386,8 +387,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0207-course-schedule) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
