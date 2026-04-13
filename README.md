@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1095-find-in-mountain-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2239-find-closest-number-to-zero](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2239-find-closest-number-to-zero) |
