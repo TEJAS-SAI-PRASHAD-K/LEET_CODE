@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1013-fibonacci-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Memoization
@@ -403,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0207-course-schedule) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
