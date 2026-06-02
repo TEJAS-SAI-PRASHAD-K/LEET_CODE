@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
