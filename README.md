@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0202-happy-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0217-contains-duplicate) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0206-reverse-linked-list) |
