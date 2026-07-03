@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1392-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1392-longest-happy-prefix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -434,4 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0292-nim-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
