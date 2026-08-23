@@ -478,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0062-unique-paths) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
