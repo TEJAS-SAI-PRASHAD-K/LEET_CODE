@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0875-koko-eating-bananas](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1095-find-in-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1095-find-in-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Tree
