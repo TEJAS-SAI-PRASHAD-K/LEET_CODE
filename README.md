@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0704-binary-search) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
@@ -392,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/TEJAS-SAI-PRASHAD-K/LEET_CODE/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
